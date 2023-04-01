@@ -27,5 +27,3 @@ jobs:
         
       - name: Build app
         run: dotnet run
-        
-  
